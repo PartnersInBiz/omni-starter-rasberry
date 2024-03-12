@@ -12,8 +12,7 @@ export default defineNuxtConfig({
      * This would allows you to create an empty git repository
      * with only your source code and no demo.
      */
-    "github:cssninjaStudio/tairo/layers/xxx#v1.0.0",
-
+    // "github:/PMLS3/omni-software.git",
     /**
      * Uncomment the following line to add the Tairo Layout Sidebar layer
      */
